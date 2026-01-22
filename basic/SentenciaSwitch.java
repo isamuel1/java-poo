@@ -8,7 +8,7 @@ public class SentenciaSwitch {
         /*
         Sintaxis
         
-        switch (args) {
+        switch (opcion) {
             case value:
                 
                 break;
